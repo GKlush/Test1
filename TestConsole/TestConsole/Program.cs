@@ -10,6 +10,11 @@ namespace TestConsole
     {
         static void Main(string[] args)
         {
+            // Get any message
+            //
+
+            // Pause
+            Console.ReadKey();
         }
     }
 }
