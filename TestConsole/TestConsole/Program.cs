@@ -12,7 +12,7 @@ namespace TestConsole
         {
             // Get any message
             //
-            Console.WriteLine("Message");
+            Console.WriteLine("Message 2");
             // Pause
             Console.ReadKey();
         }
