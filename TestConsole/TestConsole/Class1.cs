@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace TestConsole
 {
+    /// <summary>
+    /// Class Class1
+    /// </summary>
     class Class1
     {
     }
